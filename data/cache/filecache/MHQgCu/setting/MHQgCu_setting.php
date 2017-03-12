@@ -41,8 +41,8 @@ $data = array (
     'autoidselect' => '0',
     'avatarmethod' => '0',
     'bannedmessages' => '1',
-    'bbclosed' => '',
-    'bbname' => 'Discuz! Board',
+    'bbclosed' => '0',
+    'bbname' => '我的论坛',
     'bbrules' => '0',
     'bbrulesforce' => '0',
     'bbrulestxt' => '',
@@ -414,16 +414,20 @@ $data = array (
     'minpostsize_mobile' => '0',
     'mobile' => 
     array (
-      'allowmobile' => 0,
+      'allowmobile' => 1,
       'mobileforward' => 1,
       'mobileregister' => 0,
-      'mobilecharset' => 'utf-8',
+      'mobileseccode' => 0,
+      'mobilehotthread' => 0,
+      'mobiledisplayorder3' => 0,
       'mobilesimpletype' => 0,
       'mobiletopicperpage' => 10,
       'mobilepostperpage' => 5,
       'mobilecachetime' => 0,
       'mobileforumview' => 0,
-      'mobilepreview' => 1,
+      'mobilecomefrom' => '',
+      'mobilepreview' => 0,
+      'wml' => 0,
     ),
     'moddisplay' => 'flat',
     'modratelimit' => '0',
@@ -443,7 +447,7 @@ $data = array (
     'nocacheheaders' => '0',
     'oltimespan' => '10',
     'onlinehold' => 900,
-    'onlinerecord' => '7	1269749404',
+    'onlinerecord' => '1	1489294615',
     'pollforumid' => '0',
     'postbanperiods' => '',
     'postmodperiods' => '',
@@ -518,8 +522,10 @@ $data = array (
     'relatedtag' => false,
     'report_reward' => 'a:2:{s:3:"min";i:-3;s:3:"max";i:3;}',
     'rewardforumid' => '0',
-    'rewritecompatible' => '',
-    'rewritestatus' => false,
+    'rewritecompatible' => '0',
+    'rewritestatus' => 
+    array (
+    ),
     'rssstatus' => '1',
     'rssttl' => '60',
     'runwizard' => '1',
@@ -590,7 +596,7 @@ $data = array (
         ),
         'login' => 
         array (
-          'allow' => '1',
+          'allow' => '0',
           'nolocal' => '0',
           'pwsimple' => '0',
           'pwerror' => '0',
@@ -630,7 +636,7 @@ $data = array (
       'shadow' => '0',
       'animator' => '0',
     ),
-    'seccodestatus' => '16',
+    'seccodestatus' => '1',
     'seclevel' => '1',
     'secqaa' => 
     array (
@@ -638,16 +644,54 @@ $data = array (
       'status' => 0,
     ),
     'sendmailday' => '0',
-    'seodescription' => false,
+    'seodescription' => 
+    array (
+      'userapp' => '',
+      'portal' => '',
+      'articlelist' => '',
+      'article' => '',
+      'forum' => '',
+      'threadlist' => '',
+      'viewthread' => '',
+      'home' => '',
+      'blog' => '',
+      'album' => '',
+      'group' => '',
+      'grouppage' => '',
+      'viewthread_group' => '',
+    ),
     'seohead' => '',
-    'seokeywords' => false,
+    'seokeywords' => 
+    array (
+      'userapp' => '',
+      'portal' => '',
+      'articlelist' => '',
+      'article' => '',
+      'forum' => '',
+      'threadlist' => '',
+      'viewthread' => '',
+      'home' => '',
+      'blog' => '',
+      'album' => '',
+      'group' => '',
+      'grouppage' => '',
+      'viewthread_group' => '',
+    ),
     'seotitle' => 
     array (
-      'portal' => '门户',
-      'forum' => '论坛',
-      'group' => '群组',
-      'home' => '家园',
       'userapp' => '应用',
+      'portal' => '门户',
+      'articlelist' => '',
+      'article' => '',
+      'forum' => '论坛',
+      'threadlist' => '',
+      'viewthread' => '',
+      'home' => '家园',
+      'blog' => '',
+      'album' => '',
+      'group' => '群组',
+      'grouppage' => '',
+      'viewthread_group' => '',
     ),
     'showavatars' => '1',
     'showemail' => '',
@@ -674,7 +718,7 @@ $data = array (
     ),
     'sitename' => 'Comsenz Inc.',
     'siteuniqueid' => 'DXRDMMr0731e0P06',
-    'siteurl' => 'http://www.comsenz.com/',
+    'siteurl' => 'http://www.bbstest.com/',
     'smcols' => '8',
     'smrows' => '5',
     'smthumb' => '20',
@@ -1092,6 +1136,20 @@ j/n/Y',
     'security_safelogin' => '1',
     'mobilewechat' => 'a:12:{s:12:"wechat_mtype";s:1:"0";s:13:"wechat_qrtype";s:1:"3";s:12:"wechat_token";s:16:"M8985i99B6j6vYG1";s:20:"wechat_allowregister";s:1:"1";s:24:"wechat_allowfastregister";s:1:"1";s:21:"wechat_disableregrule";s:1:"1";s:19:"wechat_float_qrcode";s:1:"1";s:18:"wechat_confirmtype";s:1:"0";s:21:"wechat_newusergroupid";s:2:"10";s:14:"wsq_wapdefault";i:1;s:17:"wsq_global_banner";i:1;s:7:"RELEASE";s:8:"20150303";}',
     'mobileapihook' => 'a:2:{s:12:"forumdisplay";a:1:{s:9:"variables";a:1:{s:6:"wechat";a:4:{s:7:"include";s:16:"wsqapi.class.php";s:5:"class";s:6:"WSQAPI";s:6:"method";s:22:"forumdisplay_variables";s:5:"allow";i:1;}}}s:10:"viewthread";a:1:{s:9:"variables";a:1:{s:6:"wechat";a:4:{s:7:"include";s:16:"wsqapi.class.php";s:5:"class";s:6:"WSQAPI";s:6:"method";s:20:"viewthread_variables";s:5:"allow";i:1;}}}}',
+    'rewriterule' => 
+    array (
+      'portal_topic' => 'topic-{name}.html',
+      'portal_article' => 'article-{id}-{page}.html',
+      'forum_forumdisplay' => 'forum-{fid}-{page}.html',
+      'forum_viewthread' => 'thread-{tid}-{page}-{prevpage}.html',
+      'group_group' => 'group-{fid}-{page}.html',
+      'home_space' => 'space-{user}-{value}.html',
+      'home_blog' => 'blog-{uid}-{blogid}.html',
+      'forum_archiver' => '{action}-{value}.html',
+      'plugin' => '{pluginid}-{module}.html',
+    ),
+    'rewriteguest' => '0',
+    'baidusitemap_life' => '1',
     'newusergroupid' => '10',
     'buyusergroupexists' => '0',
     'forumfids' => 
@@ -1137,12 +1195,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -1162,22 +1218,6 @@ j/n/Y',
                 1 => 'global_mobile',
               ),
             ),
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
           ),
         ),
         'common' => 
@@ -1185,12 +1225,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -1199,11 +1237,6 @@ j/n/Y',
               0 => 
               array (
                 0 => 'mobile',
-                1 => 'common',
-              ),
-              1 => 
-              array (
-                0 => 'security',
                 1 => 'common',
               ),
             ),
@@ -1231,182 +1264,6 @@ j/n/Y',
             ),
           ),
         ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
-              ),
-            ),
-          ),
-        ),
       ),
       'forum' => 
       array (
@@ -1415,12 +1272,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'messagefuncs' => 
           array (
@@ -1430,25 +1285,6 @@ j/n/Y',
               array (
                 0 => 'mobile',
                 1 => 'post_mobile_message',
-              ),
-            ),
-            'post_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_report_message',
-              ),
-            ),
-          ),
-          'funcs' => 
-          array (
-            'post_security' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_security',
               ),
             ),
           ),
@@ -1502,12 +1338,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -1516,11 +1350,6 @@ j/n/Y',
               0 => 
               array (
                 0 => 'mobile',
-                1 => 'common',
-              ),
-              1 => 
-              array (
-                0 => 'security',
                 1 => 'common',
               ),
             ),
@@ -1553,12 +1382,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -1568,198 +1395,6 @@ j/n/Y',
               array (
                 0 => 'mobile',
                 1 => 'global_mobile',
-              ),
-            ),
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
               ),
             ),
           ),
@@ -1856,303 +1491,6 @@ j/n/Y',
           ),
         ),
       ),
-      'member' => 
-      array (
-        'logging' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'logging_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'logging_report_message',
-              ),
-            ),
-          ),
-        ),
-        'register' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'register_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'register_report_message',
-              ),
-            ),
-          ),
-        ),
-        'connect' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'connect_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'connect_report_message',
-              ),
-            ),
-          ),
-        ),
-        'common' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'common' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'common',
-              ),
-            ),
-          ),
-        ),
-        'global' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
-              ),
-            ),
-          ),
-        ),
-      ),
     ),
     'hookscript' => 
     array (
@@ -2195,12 +1533,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'messagefuncs' => 
           array (
@@ -2210,25 +1546,6 @@ j/n/Y',
               array (
                 0 => 'mobile',
                 1 => 'post_mobile_message',
-              ),
-            ),
-            'post_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_report_message',
-              ),
-            ),
-          ),
-          'funcs' => 
-          array (
-            'post_security' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_security',
               ),
             ),
           ),
@@ -2260,12 +1577,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -2274,11 +1589,6 @@ j/n/Y',
               0 => 
               array (
                 0 => 'mobile',
-                1 => 'common',
-              ),
-              1 => 
-              array (
-                0 => 'security',
                 1 => 'common',
               ),
             ),
@@ -2311,12 +1621,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -2326,198 +1634,6 @@ j/n/Y',
               array (
                 0 => 'mobile',
                 1 => 'global_mobile',
-              ),
-            ),
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
               ),
             ),
           ),
@@ -2530,12 +1646,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -2544,11 +1658,6 @@ j/n/Y',
               0 => 
               array (
                 0 => 'mobile',
-                1 => 'common',
-              ),
-              1 => 
-              array (
-                0 => 'security',
                 1 => 'common',
               ),
             ),
@@ -2581,12 +1690,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -2596,198 +1703,6 @@ j/n/Y',
               array (
                 0 => 'mobile',
                 1 => 'global_mobile',
-              ),
-            ),
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
               ),
             ),
           ),
@@ -2891,12 +1806,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'messagefuncs' => 
           array (
@@ -2908,14 +1821,6 @@ j/n/Y',
                 1 => 'login_mobile_message',
               ),
             ),
-            'login_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'login_report_message',
-              ),
-            ),
           ),
         ),
         'common' => 
@@ -2923,12 +1828,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -2937,11 +1840,6 @@ j/n/Y',
               0 => 
               array (
                 0 => 'mobile',
-                1 => 'common',
-              ),
-              1 => 
-              array (
-                0 => 'security',
                 1 => 'common',
               ),
             ),
@@ -2974,12 +1872,10 @@ j/n/Y',
           'module' => 
           array (
             'mobile' => 'mobile/mobile',
-            'security' => 'security/security',
           ),
           'adminid' => 
           array (
             'mobile' => '0',
-            'security' => '0',
           ),
           'funcs' => 
           array (
@@ -2989,1111 +1885,6 @@ j/n/Y',
               array (
                 0 => 'mobile',
                 1 => 'global_mobile',
-              ),
-            ),
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'logging' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'logging_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'logging_report_message',
-              ),
-            ),
-          ),
-        ),
-        'register' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'register_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'register_report_message',
-              ),
-            ),
-          ),
-        ),
-        'connect' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'connect_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'connect_report_message',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
-              ),
-            ),
-          ),
-        ),
-      ),
-      'group' => 
-      array (
-        'post' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'post_security' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_security',
-              ),
-            ),
-          ),
-          'messagefuncs' => 
-          array (
-            'post_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_report_message',
-              ),
-            ),
-          ),
-        ),
-        'common' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'common' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'common',
-              ),
-            ),
-          ),
-        ),
-        'global' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
-              ),
-            ),
-          ),
-        ),
-      ),
-      'home' => 
-      array (
-        'spacecp_follow' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'spacecp_follow_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'spacecp_follow_report_message',
-              ),
-            ),
-          ),
-        ),
-        'post' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'post_security' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_security',
-              ),
-            ),
-          ),
-          'messagefuncs' => 
-          array (
-            'post_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'post_report_message',
-              ),
-            ),
-          ),
-        ),
-        'common' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'common' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'common',
-              ),
-            ),
-          ),
-        ),
-        'global' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
-              ),
-            ),
-          ),
-        ),
-      ),
-      'member' => 
-      array (
-        'logging' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'logging_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'logging_report_message',
-              ),
-            ),
-          ),
-        ),
-        'register' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'register_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'register_report_message',
-              ),
-            ),
-          ),
-        ),
-        'connect' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'messagefuncs' => 
-          array (
-            'connect_report' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'connect_report_message',
-              ),
-            ),
-          ),
-        ),
-        'common' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'common' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'common',
-              ),
-            ),
-          ),
-        ),
-        'global' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'global_footer' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footer',
-              ),
-            ),
-            'global_footerlink' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'global_footerlink',
-              ),
-            ),
-          ),
-        ),
-        'deletepost' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletepost' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletepost',
-              ),
-            ),
-          ),
-        ),
-        'deletethread' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletethread' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletethread',
-              ),
-            ),
-          ),
-        ),
-        'savebanlog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'savebanlog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'savebanlog',
-              ),
-            ),
-          ),
-        ),
-        'undeletethreads' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'undeletethreads' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'undeletethreads',
-              ),
-            ),
-          ),
-        ),
-        'recyclebinpostundelete' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'recyclebinpostundelete' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'recyclebinpostundelete',
-              ),
-            ),
-          ),
-        ),
-        'deletemember' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'deletemember' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'deletemember',
-              ),
-            ),
-          ),
-        ),
-        'secLog' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'secLog' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'secLog',
-              ),
-            ),
-          ),
-        ),
-        'getMergeAction' => 
-        array (
-          'module' => 
-          array (
-            'security' => 'security/security',
-          ),
-          'adminid' => 
-          array (
-            'security' => '0',
-          ),
-          'funcs' => 
-          array (
-            'getMergeAction' => 
-            array (
-              0 => 
-              array (
-                0 => 'security',
-                1 => 'getMergeAction',
               ),
             ),
           ),
@@ -4107,10 +1898,8 @@ j/n/Y',
     array (
       'available' => 
       array (
-        0 => 'cloudcaptcha',
-        1 => 'pcmgr_url_safeguard',
-        2 => 'mobile',
-        3 => 'security',
+        0 => 'pcmgr_url_safeguard',
+        1 => 'mobile',
       ),
       'func' => 
       array (
@@ -4118,31 +1907,17 @@ j/n/Y',
         array (
           'common' => true,
           'discuzcode' => true,
-          'deletepost' => true,
-          'deletethread' => true,
-          'savebanlog' => true,
-          'undeletethreads' => true,
-          'recyclebinpostundelete' => true,
-          'deletemember' => true,
         ),
         'hookscript' => 
         array (
           'common' => true,
           'discuzcode' => true,
-          'deletepost' => true,
-          'deletethread' => true,
-          'savebanlog' => true,
-          'undeletethreads' => true,
-          'recyclebinpostundelete' => true,
-          'deletemember' => true,
         ),
       ),
       'version' => 
       array (
-        'cloudcaptcha' => '1.0',
         'pcmgr_url_safeguard' => '1.1',
         'mobile' => '1.4.8',
-        'security' => '1.11.1',
       ),
     ),
     'navlogos' => NULL,
@@ -4343,7 +2118,7 @@ j/n/Y',
         array (
           'available' => '1',
           'navname' => '收藏本站',
-          'code' => '<a href="http://www.bbstest.com/"  onclick="addFavorite(this.href, \'Discuz! Board\');return false;">收藏本站</a>',
+          'code' => '<a href="http://www.bbstest.com/"  onclick="addFavorite(this.href, \'我的论坛\');return false;">收藏本站</a>',
           'type' => '0',
           'level' => '0',
           'id' => 'setfavorite',
@@ -4356,19 +2131,19 @@ j/n/Y',
       array (
         0 => 
         array (
-          'left' => '{QCyzbyq5}
-{wlL8qC7F}
-{p1YyAfYV}
-{FbMtMtcf}
-{bgH3rmRr}
-{lC11ZmAB}
+          'left' => '{fFEI0iyI}
+{m30c370C}
+{c3zxbbdb}
+{mweLX663}
+{HVEEitLl}
+{pOJYV1S9}
 <dl class="pil cl">
-	<dt>{rrzvQxUl}</dt><dd>{zyykolhv}</dd>
+	<dt>{BrH7aaeG}</dt><dd>{Md5M8221}</dd>
 </dl>
-{kGk7s09c}
-<dl class="pil cl">{AmscMMnD}</dl>',
+{yoSQqR44}
+<dl class="pil cl">{UE2e8M8X}</dl>',
           'top' => '<dl class="cl">
-<dt>{mta464MI}</dt><dd>{X94OeBqe}</dd>
+<dt>{OYyiNNmq}</dt><dd>{kBE2Gddh}</dd>
 </dl>',
         ),
       ),
@@ -4378,980 +2153,70 @@ j/n/Y',
         array (
           'left' => 
           array (
-            '{Dnqnr1IN}' => 
+            '{fFEI0iyI}' => 
             array (
               0 => 'numbercard',
               1 => '',
               2 => '',
               3 => '',
             ),
-            '{NHPoCu6u}' => 
+            '{m30c370C}' => 
             array (
               0 => 'groupicon',
               1 => '<p>',
               2 => '</p>',
               3 => '',
             ),
-            '{XKkjvX3o}' => 
+            '{c3zxbbdb}' => 
             array (
               0 => 'authortitle',
               1 => '<p><em>',
               2 => '</em></p>',
               3 => '',
             ),
-            '{v2gpSZPg}' => 
+            '{mweLX663}' => 
             array (
               0 => 'customstatus',
               1 => '<p class="xg1">',
               2 => '</p>',
               3 => '',
             ),
-            '{LBRacmvx}' => 
+            '{HVEEitLl}' => 
             array (
               0 => 'star',
               1 => '<p>',
               2 => '</p>',
               3 => '',
             ),
-            '{q89i8G94}' => 
+            '{pOJYV1S9}' => 
             array (
               0 => 'upgradeprogress',
               1 => '<p>',
               2 => '</p>',
               3 => '',
             ),
-            '{H51JMPD0}' => 
+            '{BrH7aaeG}' => 
             array (
               0 => 'baseinfo',
               1 => '',
               2 => '',
               3 => 'credits,1',
             ),
-            '{JrA48zjs}' => 
+            '{Md5M8221}' => 
             array (
               0 => 'baseinfo',
               1 => '',
               2 => '',
               3 => 'credits,0',
             ),
-            '{W88cd8Df}' => 
+            '{yoSQqR44}' => 
             array (
               0 => 'medal',
               1 => '<p class="md_ctrl">',
               2 => '</p>',
               3 => '',
             ),
-            '{e66Yu6ud}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{rzMhTze4}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{mBPbJ4jo}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{C9T55A45}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{xAl9T24R}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{p1y1mZ00}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Ga5SwxJ1}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{F6xx46Ww}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{Dmc25AKP}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{JjV114kf}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{QxLURDx6}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{EZQe0qOQ}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{OyT5HY53}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Ugvlu3PX}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{Y7qvGVLl}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{PlWRJ2WM}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{g75trEEI}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{fNbHDWTC}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{eFqdrj4m}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{t32zO4xj}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{m4V6AvVV}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{H9yveMLU}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{K2OXtoT2}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Q779osN7}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{Cquw04q0}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{OZ9jd3wr}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{y6oUBi86}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Y0j7E871}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{qHsJdssP}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{APeJ537Y}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{LdSE4c8r}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{a1pyO3Bi}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{AY445Zg4}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{eQc6KmCc}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{LQy7UBd3}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{IQV1aV94}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{fn5zpNRP}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{BoTUuUjZ}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{bfuJ9P3P}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{o59Oc1hF}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{QKPl6kBB}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{uM8BCDj7}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{PKxJk19E}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{pSCpov1c}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{p79YbB5s}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{xMW1wbuH}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{bL4x4L4I}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{fF93RpCi}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{tZpjJP7Y}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{zAVvuTBU}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{d0006UpV}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{CN888i6v}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{j2iKSx72}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{VtggSr2z}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{jKqAzoI0}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{fJwOj9A8}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{mwJzfkdw}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{K8w8rQH2}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{xZS6nqtN}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{LmraOR8Z}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{XpjZ2S6s}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{bOEQqDtz}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{hszrh0MO}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{gME4MoeE}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{T3u33Y6V}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{GB9n8C0B}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{luJJX2j7}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Qhe2ThcU}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{Fk8vf7fD}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{IdYaAyhB}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{fs38G8nL}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{y3HHA7ph}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{XC2v5r3G}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{iTbnOZ3r}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{qd43NrSn}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{WOyZEAv9}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Gk8RKLAZ}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{K4o4B434}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{oZlTte54}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{omPhWRZ8}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{H4J0f3Jm}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{TQ16hW7z}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{YnzAJccW}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{qtKrWO1f}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{m0J0Tsv1}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{hrReWZru}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{izt0ZO8O}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{pFQcxdDd}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{qAB457Bw}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{Esup64WD}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{kscDwUGc}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{RcjctJKT}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{Rc6316uG}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{yYfoaIa7}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{Z4Lt3wwB}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{vEP6M5LF}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Dnx727g7}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Mn1VIEwL}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{pIpuRKZ5}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{wX2L1611}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{TX4h3fTl}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{qDmwpt99}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{eHHAAoPl}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{cFfTIHLr}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{Gjt4HjRX}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{k6TjYsXZ}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{N8Rt449z}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{PDKe64K7}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{P2R8m78r}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{mbjwEbR4}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{j9BaLjQq}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{uQk7r5Gg}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{OM5P1EC5}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{z2Wf3bFf}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{t94qpP8n}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{Zm0D380U}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{w99amdMe}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{SBpYzNFz}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{J3A54H3a}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{XV9YGNag}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{DHoDj1Ht}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'field_qq,0',
-            ),
-            '{QCyzbyq5}' => 
-            array (
-              0 => 'numbercard',
-              1 => '',
-              2 => '',
-              3 => '',
-            ),
-            '{wlL8qC7F}' => 
-            array (
-              0 => 'groupicon',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{p1YyAfYV}' => 
-            array (
-              0 => 'authortitle',
-              1 => '<p><em>',
-              2 => '</em></p>',
-              3 => '',
-            ),
-            '{FbMtMtcf}' => 
-            array (
-              0 => 'customstatus',
-              1 => '<p class="xg1">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{bgH3rmRr}' => 
-            array (
-              0 => 'star',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{lC11ZmAB}' => 
-            array (
-              0 => 'upgradeprogress',
-              1 => '<p>',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{rrzvQxUl}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{zyykolhv}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{kGk7s09c}' => 
-            array (
-              0 => 'medal',
-              1 => '<p class="md_ctrl">',
-              2 => '</p>',
-              3 => '',
-            ),
-            '{AmscMMnD}' => 
+            '{UE2e8M8X}' => 
             array (
               0 => 'baseinfo',
               1 => '',
@@ -5361,196 +2226,14 @@ j/n/Y',
           ),
           'top' => 
           array (
-            '{t764qQgC}' => 
+            '{OYyiNNmq}' => 
             array (
               0 => 'baseinfo',
               1 => '',
               2 => '',
               3 => 'credits,1',
             ),
-            '{ZJuYxqpx}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{tsQz6ZUw}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{A0127nTv}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{hmZM0Una}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{R2bG2zNm}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{S3y3v370}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{UJ0oSqJE}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{FHfz6RlF}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{Avz1fVj4}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{D4Vrs7GM}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{Sy799HUY}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{ejr759e0}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{n7ou89U9}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{s88skJkk}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{Gt6ts4Yr}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{nvEu74Vv}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{k832mrbs}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{z335yxx5}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{hBZxiob3}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{Fc5fcLx1}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{bu7d875a}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{TW9HO8pI}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{DPS0MMMf}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{f54RZj1J}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{ZzWn7W1q}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,0',
-            ),
-            '{mta464MI}' => 
-            array (
-              0 => 'baseinfo',
-              1 => '',
-              2 => '',
-              3 => 'credits,1',
-            ),
-            '{X94OeBqe}' => 
+            '{kBE2Gddh}' => 
             array (
               0 => 'baseinfo',
               1 => '',
@@ -5575,10 +2258,10 @@ j/n/Y',
     'csspath' => 'data/cache/style_',
     'reginput' => 
     array (
-      'username' => 'oppP3P',
-      'password' => 'o5CNoh',
-      'password2' => 'Q5r8JH',
-      'email' => 'HKO7KS',
+      'username' => 'l9EUrL',
+      'password' => 'C9Q7nl',
+      'password2' => 'BgJDm6',
+      'email' => 'Siqzv1',
     ),
     'output' => 
     array (
