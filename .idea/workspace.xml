@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="357d99a8-e1cb-4821-a76e-7c90efe9f4d6" name="Default" comment="" />
+    <list default="true" id="357d99a8-e1cb-4821-a76e-7c90efe9f4d6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Author.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/License.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Serendity Script.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Serendity Script.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Serendity Script.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Serendity Script.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Serendity Script.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/annex/1YwB1sO8YE1Lyjf12WNiUA.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/annex/EsvMC5un3kjyUhB9ZEPPwg.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/annex/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/annex/octicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/annex/zhcz-_WihjSQC0oHJ9TCYPk_vArhqVIZ0nv9q090hN8.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/github-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/images/projects/project-featured.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/img/gravatar-user-420.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/jquery-rss/dist/compiler.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Installation Instructions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/Serendipity Script/Serendity Script.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/lato.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/montserrat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/less/base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/less/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/less/styles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/less/theme-default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/src/github-activity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/github-activity/src/github-activity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/jquery-migrate-1.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/jquery-rss/dist/jquery.rss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/assets/plugins/jquery-rss/dist/jquery.rss.min.js.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/luke/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/common/member/1/MHQgCu_common_member_1.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/common/member/1/MHQgCu_common_member_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/common/member/count/1/MHQgCu_common_member_count_1.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/common/member/count/1/MHQgCu_common_member_count_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/common/member/status/1/MHQgCu_common_member_status_1.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/common/member/status/1/MHQgCu_common_member_status_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/cronnextrun/MHQgCu_cronnextrun.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/cronnextrun/MHQgCu_cronnextrun.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/diytemplatename/MHQgCu_diytemplatename.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/diytemplatename/MHQgCu_diytemplatename.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/forum/index/page/1/MHQgCu_forum_index_page_1.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/forum/index/page/1/MHQgCu_forum_index_page_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/forum/index/page/7/MHQgCu_forum_index_page_7.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/forum/index/page/7/MHQgCu_forum_index_page_7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/onlinerecord/MHQgCu_onlinerecord.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/onlinerecord/MHQgCu_onlinerecord.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/portalcategory/MHQgCu_portalcategory.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/portalcategory/MHQgCu_portalcategory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/setting/MHQgCu_setting.php" afterPath="$PROJECT_DIR$/data/cache/filecache/MHQgCu/setting/MHQgCu_setting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/log/201703_cplog.php" afterPath="$PROJECT_DIR$/data/log/201703_cplog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/sysdata/cache_domain.php" afterPath="$PROJECT_DIR$/data/sysdata/cache_domain.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/admincp/admincp_checktools.php" afterPath="$PROJECT_DIR$/source/admincp/admincp_checktools.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,22 +127,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="forumdisplay.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/default/forum/forumdisplay.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="discuz.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/default/forum/discuz.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,48 +141,8 @@
       <file leaf-file-name="forum.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-582">
-              <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/default/common/header.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="discuz.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/default/mobile/forum/discuz.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/default/mobile/common/header.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forum_index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/module/forum/forum_index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9299">
-              <caret line="18" column="109" lean-forward="false" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="109" />
+            <state relative-caret-position="228">
+              <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -89,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/template/default/wml/common/header.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+              <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -99,17 +162,73 @@
         <entry file="file://$PROJECT_DIR$/template/default/wml/forum/discuz.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/default/touch/common/header.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admincp_checktools.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/admincp/admincp_checktools.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8512">
+              <caret line="453" column="30" lean-forward="false" selection-start-line="453" selection-start-column="19" selection-end-line="453" selection-end-column="30" />
+              <folding>
+                <marker date="1489502206314" expanded="true" signature="4985:4991" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="5062:5068" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="5144:5150" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="5218:5224" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="6003:6020" ph="..." />
+                <marker date="1489502206314" expanded="true" signature="6034:6040" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="6040:6046" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="6099:6105" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="6665:6671" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="6836:6842" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="7025:7031" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="7031:7037" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="7037:7043" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="7043:7049" ph=" " />
+                <marker date="1489502206314" expanded="true" signature="10833:10839" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_admincp.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/function/function_admincp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25916">
+              <caret line="1369" column="48" lean-forward="false" selection-start-line="1369" selection-start-column="48" selection-end-line="1369" selection-end-column="48" />
+              <folding>
+                <marker date="1488420076000" expanded="true" signature="6988:6996" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="8815:8821" ph=" " />
+                <marker date="1488420076000" expanded="true" signature="14179:14196" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="16823:16874" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="17180:17193" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="31467:31491" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="31796:31808" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="31860:31873" ph="..." />
+                <marker date="1488420076000" expanded="true" signature="35123:35133" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -122,6 +241,9 @@
       <find>mobile</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,6 +254,7 @@
         <option value="$PROJECT_DIR$/template/default/wml/common/header.htm" />
         <option value="$PROJECT_DIR$/template/default/wml/forum/discuz.htm" />
         <option value="$PROJECT_DIR$/template/default/touch/common/header.htm" />
+        <option value="$PROJECT_DIR$/source/admincp/admincp_checktools.php" />
       </list>
     </option>
   </component>
@@ -145,7 +268,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -164,7 +287,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,78 +299,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbstestwww" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\VMwarePro\bbstestwww\luke" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -279,6 +343,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -315,21 +385,24 @@
       <workItem from="1489294747213" duration="810000" />
       <workItem from="1489317663054" duration="145000" />
       <workItem from="1489317824827" duration="4391000" />
+      <workItem from="1489501535484" duration="1811000" />
+      <workItem from="1489577161353" duration="2205000" />
+      <workItem from="1490021683089" duration="972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5346000" />
+    <option name="totallyTimeSpent" value="10334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -339,7 +412,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -355,7 +428,89 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/default/forum/index.htm">
+    <entry file="file://$PROJECT_DIR$/template/default/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/wml/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/wml/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/touch/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/admincp/admincp_checktools.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8607">
+          <caret line="453" column="30" lean-forward="false" selection-start-line="453" selection-start-column="19" selection-end-line="453" selection-end-column="30" />
+          <folding>
+            <marker date="1489502206314" expanded="true" signature="4985:4991" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5062:5068" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5144:5150" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5218:5224" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6003:6020" ph="..." />
+            <marker date="1489502206314" expanded="true" signature="6034:6040" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6040:6046" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6099:6105" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6665:6671" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6836:6842" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7025:7031" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7031:7037" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7037:7043" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7043:7049" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="10833:10839" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/function/function_admincp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26011">
+          <caret line="1369" column="48" lean-forward="false" selection-start-line="1369" selection-start-column="48" selection-end-line="1369" selection-end-column="48" />
+          <folding>
+            <marker date="1488420076000" expanded="true" signature="6988:6996" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="8815:8821" ph=" " />
+            <marker date="1488420076000" expanded="true" signature="14179:14196" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="16823:16874" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="17180:17193" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31467:31491" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31796:31808" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31860:31873" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="35123:35133" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -363,11 +518,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/portal/index.htm">
+    <entry file="file://$PROJECT_DIR$/template/default/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/wml/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/wml/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/touch/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/admincp/admincp_checktools.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8607">
+          <caret line="453" column="30" lean-forward="false" selection-start-line="453" selection-start-column="19" selection-end-line="453" selection-end-column="30" />
+          <folding>
+            <marker date="1489502206314" expanded="true" signature="4985:4991" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5062:5068" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5144:5150" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5218:5224" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6003:6020" ph="..." />
+            <marker date="1489502206314" expanded="true" signature="6034:6040" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6040:6046" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6099:6105" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6665:6671" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6836:6842" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7025:7031" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7031:7037" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7037:7043" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7043:7049" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="10833:10839" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/function/function_admincp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1488420076000" expanded="true" signature="6988:6996" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="8815:8821" ph=" " />
+            <marker date="1488420076000" expanded="true" signature="14179:14196" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="16823:16874" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="17180:17193" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31467:31491" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31796:31808" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31860:31873" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="35123:35133" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -375,55 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/mobile/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/common/header.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/common/header_common.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/mobile/common/header.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/mobile/forum/discuz.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/default/mobile/forum/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,17 +617,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forum.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-582">
+        <state relative-caret-position="323">
           <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/mobile/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/mobile/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/module/forum/forum_index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9299">
+        <state relative-caret-position="342">
           <caret line="18" column="109" lean-forward="false" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="109" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,8 +669,182 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/default/touch/common/header.htm">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/forum/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/portal/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/forum/forumdisplay.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/mobile/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/common/header_common.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/mobile/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/mobile/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/mobile/forum/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/wml/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/wml/forum/discuz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/admincp/discuzfiles.md5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/admincp/discuzdb.md5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62219">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/default/touch/common/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/module/forum/forum_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" column="109" lean-forward="false" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/admincp/admincp_checktools.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8512">
+          <caret line="453" column="30" lean-forward="false" selection-start-line="453" selection-start-column="19" selection-end-line="453" selection-end-column="30" />
+          <folding>
+            <marker date="1489502206314" expanded="true" signature="4985:4991" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5062:5068" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5144:5150" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="5218:5224" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6003:6020" ph="..." />
+            <marker date="1489502206314" expanded="true" signature="6034:6040" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6040:6046" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6099:6105" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6665:6671" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="6836:6842" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7025:7031" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7031:7037" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7037:7043" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="7043:7049" ph=" " />
+            <marker date="1489502206314" expanded="true" signature="10833:10839" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/function/function_admincp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25916">
+          <caret line="1369" column="48" lean-forward="false" selection-start-line="1369" selection-start-column="48" selection-end-line="1369" selection-end-column="48" />
+          <folding>
+            <marker date="1488420076000" expanded="true" signature="6988:6996" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="8815:8821" ph=" " />
+            <marker date="1488420076000" expanded="true" signature="14179:14196" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="16823:16874" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="17180:17193" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31467:31491" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31796:31808" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="31860:31873" ph="..." />
+            <marker date="1488420076000" expanded="true" signature="35123:35133" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding />
         </state>
       </provider>

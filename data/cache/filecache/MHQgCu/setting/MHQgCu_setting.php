@@ -447,7 +447,7 @@ $data = array (
     'nocacheheaders' => '0',
     'oltimespan' => '10',
     'onlinehold' => 900,
-    'onlinerecord' => '1	1489294615',
+    'onlinerecord' => '2	1489577669',
     'pollforumid' => '0',
     'postbanperiods' => '',
     'postmodperiods' => '',
@@ -837,7 +837,7 @@ j/n/Y',
     'holddomain' => 'www|*blog*|*space*|*bbs*',
     'domain' => 
     array (
-      'defaultindex' => 'forum.php',
+      'defaultindex' => 'http://www.bbstest.com/portal.php?mod=list&catid=1',
       'holddomain' => 'www|*blog*|*space*|*bbs*',
       'list' => 
       array (
@@ -917,7 +917,7 @@ j/n/Y',
     'allowquickviewprofile' => '1',
     'allowmoderatingthread' => '1',
     'editperdel' => '1',
-    'defaultindex' => 'forum.php',
+    'defaultindex' => 'http://www.bbstest.com/portal.php?mod=list&catid=1',
     'ipregctrltime' => '72',
     'verify' => 
     array (
@@ -2131,19 +2131,19 @@ j/n/Y',
       array (
         0 => 
         array (
-          'left' => '{fFEI0iyI}
-{m30c370C}
-{c3zxbbdb}
-{mweLX663}
-{HVEEitLl}
-{pOJYV1S9}
+          'left' => '{NC9QF1dZ}
+{oe5992Ei}
+{e6nCnR7m}
+{Ut4jGuUJ}
+{E6Ygz8E3}
+{r4HKKj0A}
 <dl class="pil cl">
-	<dt>{BrH7aaeG}</dt><dd>{Md5M8221}</dd>
+	<dt>{tf222L29}</dt><dd>{xh67IoY4}</dd>
 </dl>
-{yoSQqR44}
-<dl class="pil cl">{UE2e8M8X}</dl>',
+{LbPRb775}
+<dl class="pil cl">{S11101Dd}</dl>',
           'top' => '<dl class="cl">
-<dt>{OYyiNNmq}</dt><dd>{kBE2Gddh}</dd>
+<dt>{t5w5OFe9}</dt><dd>{g1x9Woa9}</dd>
 </dl>',
         ),
       ),
@@ -2153,70 +2153,70 @@ j/n/Y',
         array (
           'left' => 
           array (
-            '{fFEI0iyI}' => 
+            '{NC9QF1dZ}' => 
             array (
               0 => 'numbercard',
               1 => '',
               2 => '',
               3 => '',
             ),
-            '{m30c370C}' => 
+            '{oe5992Ei}' => 
             array (
               0 => 'groupicon',
               1 => '<p>',
               2 => '</p>',
               3 => '',
             ),
-            '{c3zxbbdb}' => 
+            '{e6nCnR7m}' => 
             array (
               0 => 'authortitle',
               1 => '<p><em>',
               2 => '</em></p>',
               3 => '',
             ),
-            '{mweLX663}' => 
+            '{Ut4jGuUJ}' => 
             array (
               0 => 'customstatus',
               1 => '<p class="xg1">',
               2 => '</p>',
               3 => '',
             ),
-            '{HVEEitLl}' => 
+            '{E6Ygz8E3}' => 
             array (
               0 => 'star',
               1 => '<p>',
               2 => '</p>',
               3 => '',
             ),
-            '{pOJYV1S9}' => 
+            '{r4HKKj0A}' => 
             array (
               0 => 'upgradeprogress',
               1 => '<p>',
               2 => '</p>',
               3 => '',
             ),
-            '{BrH7aaeG}' => 
+            '{tf222L29}' => 
             array (
               0 => 'baseinfo',
               1 => '',
               2 => '',
               3 => 'credits,1',
             ),
-            '{Md5M8221}' => 
+            '{xh67IoY4}' => 
             array (
               0 => 'baseinfo',
               1 => '',
               2 => '',
               3 => 'credits,0',
             ),
-            '{yoSQqR44}' => 
+            '{LbPRb775}' => 
             array (
               0 => 'medal',
               1 => '<p class="md_ctrl">',
               2 => '</p>',
               3 => '',
             ),
-            '{UE2e8M8X}' => 
+            '{S11101Dd}' => 
             array (
               0 => 'baseinfo',
               1 => '',
@@ -2226,14 +2226,14 @@ j/n/Y',
           ),
           'top' => 
           array (
-            '{OYyiNNmq}' => 
+            '{t5w5OFe9}' => 
             array (
               0 => 'baseinfo',
               1 => '',
               2 => '',
               3 => 'credits,1',
             ),
-            '{kBE2Gddh}' => 
+            '{g1x9Woa9}' => 
             array (
               0 => 'baseinfo',
               1 => '',
@@ -2258,10 +2258,10 @@ j/n/Y',
     'csspath' => 'data/cache/style_',
     'reginput' => 
     array (
-      'username' => 'l9EUrL',
-      'password' => 'C9Q7nl',
-      'password2' => 'BgJDm6',
-      'email' => 'Siqzv1',
+      'username' => 'eE7M58',
+      'password' => 'qllbx7',
+      'password2' => 'ltOMME',
+      'email' => 'oSaA3J',
     ),
     'output' => 
     array (
